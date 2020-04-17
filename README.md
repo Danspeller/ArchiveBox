@@ -260,24 +260,6 @@ You can also access the docs locally by looking in the [`ArchiveBox/docs/`](http
 <br/><br/>
 <img src="https://raw.githubusercontent.com/Monadical-SAS/redux-time/HEAD/examples/static/jeremy.jpg" height="40px"/>
 <br/>
-<sub><i>This project is maintained mostly in <a href="https://nicksweeting.com/blog#About">my spare time</a> with the help from generous contributors.</i></sub>
-<br/><br/>
-Contributor Spotlight:<br/><br/>
- 
-<a href="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/links/0"><img src="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/images/0"></a>
-<a href="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/links/1"><img src="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/images/1"></a>
-<a href="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/links/2"><img src="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/images/2"></a>
-<a href="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/links/3"><img src="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/images/3"></a>
-<a href="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/links/4"><img src="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/images/4"></a>
-<a href="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/links/5"><img src="https://sourcerer.io/fame/pirate/pirate/ArchiveBox/images/5"></a>
-
-<br/>
-<a href="https://www.patreon.com/theSquashSH"><img src="https://img.shields.io/badge/Donate_to_support_development-via_Patreon-%23DD5D76.svg?style=flat"/></a>
-<br/>
-<br/>
-<a href="https://twitter.com/thesquashSH"><img src="https://img.shields.io/badge/Tweet-%40theSquashSH-blue.svg?style=flat"/></a>
-<a href="https://github.com/pirate/ArchiveBox"><img src="https://img.shields.io/github/stars/pirate/ArchiveBox.svg?style=flat&label=Star+on+Github"/></a>
-<!--<a href="http://webchat.freenode.net?channels=ArchiveBox&uio=d4"><img src="https://img.shields.io/badge/Community_chat-IRC-%2328A745.svg"/></a>-->
 
 <br/><br/>
 
